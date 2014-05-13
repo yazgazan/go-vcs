@@ -94,3 +94,5 @@ Contributors
 ============
 
 * Quinn Slack <sqs@sourcegraph.com>
+
+Forked from [https://github.com/sourcegraph/go-vcs/](https://github.com/sourcegraph/go-vcs/).
